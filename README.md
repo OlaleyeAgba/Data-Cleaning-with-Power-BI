@@ -36,4 +36,6 @@ Split the original table based on price per unit, we observe that the items have
 Merge the tables together to give a clean cafe data. 
 Remove 145 rows of data due to Null date values. 
 **8886** rows of data was used for the final analysis. 
-Approximately 89% of yhe data was used for the final visualization.
+
+Approximately 89% of the data was used for the final visualization.
+
