@@ -29,7 +29,9 @@ Split the original table based on price per unit, we observe that the items have
 
   For Smoothie and Sandwich having the same price per unit, Empty and Unknown for Smoothies while Error for Sandwich. 
 
-  For Null Price per unit: Replace the null price by using conditional formatting to get the price the price from the Replace Error, Empty and Unknown with 1.0 which is equivalent to Cookie. For Quantity and Total spent, Null values were replaced with Zero
+  For Null Price per unit: Replace the null price by using conditional formatting to get the price the price from the Replace Error, Empty and Unknown with 1.0 which is equivalent to Cookie.
+
+ For Quantity and Total spent, Null values were replaced with Zero
 
 Merge the tables together to give a clean cafe data. 
 Remove 145 rows of data due to Null date values. 
