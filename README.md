@@ -17,7 +17,6 @@ Data Cleaning tasks include:
 - Handling missing data
   For the Location Column: Replace Blank- instore, Error - Takeaway and Unknown - Instore
   For Payment Column: Replace Blank - Cash, Error - Digital Wallet, Unknown - Credit Card
-
-
-
-   
+- Data Formatting:
+Split the original table based on price per unit, we observe that the items have a fixed price per unit.
+Cookie- 1.0, Tea- 1.5,  Coffee - 2.0, Cake and Juice - 3.0, Smoothie and Sandwich-4.p and Sakad-5.0
