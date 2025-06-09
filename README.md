@@ -1,3 +1,4 @@
+
 # Data-Cleaning-with-Power-BI
 
 ### Project Overview
@@ -19,4 +20,7 @@ Data Cleaning tasks include:
   For Payment Column: Replace Blank - Cash, Error - Digital Wallet, Unknown - Credit Card
 - Data Formatting:
 Split the original table based on price per unit, we observe that the items have a fixed price per unit.
-Cookie- 1.0, Tea- 1.5,  Coffee - 2.0, Cake and Juice - 3.0, Smoothie and Sandwich-4.p and Sakad-5.0
+Cookie- 1.0, Tea- 1.5,  Coffee - 2.0, Cake and Juice - 3.0, Smoothie and Sandwich-4.0 and Salad-5.0
+For each new table for Cookie, Tea, Coffee and Salad the Error, Empty and Unknown values of the price per unit was replaced by their respective price per unit. 
+For Cake and Juice having the same price per unit, Error value for Cake while Empty and Unknown for Juice. 
+For Smoothie and Sandwich having the same price per unit, Empty and Unknown for Smoothies while Error for Sandwich. 
