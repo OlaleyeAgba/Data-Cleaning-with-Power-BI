@@ -1,6 +1,8 @@
 
 # Data-Cleaning-with-Power-BI
 
+
+
 ### Project Overview
 The project aims to clean and transform Cafe Sales data using Power Bi and Power Query Editor, ensuring accucurate analysis and informed business decisions. Key tasks include data inspection, cleaning, transformation, and modeling to provide reliable insighjts on sales trends and revenue.
 
