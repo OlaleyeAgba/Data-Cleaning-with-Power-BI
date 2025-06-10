@@ -1,7 +1,7 @@
 
 # Data-Cleaning-with-Power-BI
 
-![Uploading 1748774654835.jpg…]()
+
 
 
 ### Project Overview
