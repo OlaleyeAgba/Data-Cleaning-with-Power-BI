@@ -45,4 +45,7 @@ Approximately 89% of the data was used for the final visualization.
 ### Exploratory Data Analysis
 EDA involved exploring the Cafe sales data to answer key question, such as;
 - What is the overall sales trends?
-- 
+- What is the Revenue by items
+- What is the Revenue by Payment Methods 
+- What is the Revenue by Location 
+- Trends of Revenue by Month
